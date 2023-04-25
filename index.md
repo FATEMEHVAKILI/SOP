@@ -4,7 +4,7 @@ In today's world, the advancement of artificial intelligence and information tec
   <br>
 Artificial intelligence and information technology fascinated me since high school. I was amazed by the way everything happened with artificial intelligence in the world. These events encouraged me to reach my goal. The increasing importance of artificial intelligence will play a central role in the coming years. I would like to be among the top professors in the field of artificial intelligence in the world. I am confident that I will achieve this goal with further study and research. Therefore, studying at the doctoral level will be of great help in advancing the goals. It's something that excites me and I look forward to it.
   <br>
-  <h2>Bachelor's degree</h2>
+ 
 Throughout my undergraduate studies, I believed that I could study at Iran's first-level universities, and this goal came true in my master's degree. I am confident that this goal will also happen in the doctoral degree. I have always had the desire to explore real-world applications of AI. Therefore, during my bachelor's days, I tried my best to be a successful person in my field. My bachelor's period lasted from September 23, 2018, to July 2, 2021, that is, for 6 semesters. Some of the work experiences and projects in the undergraduate degree include:
   <br>
 1. Cloud Computing architecture
@@ -21,7 +21,7 @@ Throughout my undergraduate studies, I believed that I could study at Iran's fir
   <br>
 Since I was very interested in participating in scientific and cultural activities, I have worked as the secretary of the Computer Engineering Scientific Association and the main member of the association for two years. During this period, we implemented programming courses at the university. Tutoring groups were established to support and help students.
   <br>
-    <h2>Master's degree</h2>
+    
 In my opinion, people should always be their best selves. So I tried to study and learn more in the field of programming and artificial intelligence.
 Immediately after completing my bachelor's degree, I studied at the master's level. The most beautiful part of this study is that I reached my goal of being admitted to one of Iran's first-level universities (Tarbiat Modares University). This was very encouraging to me. This success will be further motivation to continue studying at the doctoral level. Master's studies started on September 23, 2021, and will continue until September 22, 2023. Also, I was among the top ranks in the entrance examination. The closer I got to my goals, the more effort I put in. During my master's degree, I implemented 2 startups:
   <br> 
